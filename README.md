@@ -18,7 +18,7 @@ Built with **HTML**, **CSS**, and **JavaScript** — designed for college studen
 - 📱 Fully responsive design
 - 💡 User-friendly & accessible interface
 
-## 🖼 Live Preview  -- 
+## 🖼 Live Preview  -- https://sghubatgit.github.io/Attendance-calculator/
 > You can deploy this app for free using:
 - [Netlify](https://www.netlify.com/)
 - [GitHub Pages](https://pages.github.com/)
